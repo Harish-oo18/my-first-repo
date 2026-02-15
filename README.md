@@ -1,3 +1,3 @@
 # my-first-repo
-This is my fist repository
+This is my fist repository.
 harish
